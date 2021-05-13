@@ -4,7 +4,7 @@ Hi there 👋
   
 <li>🌱 Aspiring Full Stack Android Developer</li>
 
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/chaithanyaguptha/" rel="nofollow">Prabin Kumar Sahu</a></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/prabin-kumar-sahu-01a26a148/" rel="nofollow">Prabin Kumar Sahu</a></li>
 <li>⚡ I love to code!</li>
 </ul>
 
