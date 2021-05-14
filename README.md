@@ -17,10 +17,8 @@ Hi there 👋
 ---
 
 
-
-![Prabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabinkumarsahu28&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinkumarsahu28&layout=compact&theme=radical)
 
+---
 
 ![Prabin's github activity graph](https://activity-graph.herokuapp.com/graph?username=prabinkumarsahu28&theme=dracula)
